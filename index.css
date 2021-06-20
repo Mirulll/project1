@@ -1,0 +1,103 @@
+body{
+	background-size: 100%;
+	background-image: url(img/a.jpg);
+	background-repeat: no-repeat;
+	background-position: cover;
+	background-color: #040807a2;
+}
+.divsatu {
+	margin: 0 0 0 0;
+}
+.judul{
+	text-align: left; font-size: 2vw; color: white;
+	padding-top: 2%;
+	margin: 0 0 0 0;
+}
+.judul1{
+	text-align: left;font-size: 1vw;color: white; font-family: 'arial';
+	margin: 0 0 0 0;
+	padding-bottom: 2%; 
+}
+.divdua{
+	background-color: #00000083;
+	padding: 0 1% 0 1%;
+}
+.subjudul{
+	font-family: 'arial'; color: rgb(255, 255, 255);
+	font-size: 2vw;
+	margin: 0 0 0 0;
+	padding:1.75% 0 1% 0;
+}
+.subjudul1{
+	float: left;
+	font-family: 'arial'; color: rgb(255, 255, 255);
+	font-size: 2vw;
+	margin: 0 0 0 0;
+	padding:1.75% 0 1% 0;
+}
+.divtiga{
+	float: left; margin:2% 0 2% 1%;  padding: 1% 1% 1% 1%;
+	background-color: rgba(255, 255, 255, 0.493);
+}
+.divempat{
+	float: left; margin:2% 0 2% 1%; padding: 1% 1% 1% 1%;
+	background: rgba(255, 255, 255, 0.493);
+}
+.divlima{
+	float: left; margin:2% 0 2% 1%; padding: 1% 1% 1% 1%;
+	background-color: rgba(255, 255, 255, 0.493);
+}
+.divenam{
+	float: left; margin:2% 0 2% 1%; padding: 1% 1% 1% 1%;
+	background-color: rgba(255, 255, 255, 0.493);
+}
+h1{
+	margin: 1% 1% 1% 1%;
+}
+.divdua ul{
+	padding: 5% 5% 5% 5%;
+	margin: 1% 1% 1% 1%;
+}
+.divtiga ul{
+	padding: 5% 5% 5% 5%;
+	margin: 1% 1% 1% 1%;
+}
+.divempat ul{
+	padding: 5% 5% 5% 5%;
+	margin: 1% 1% 1% 1%;
+}
+.divlima ul{
+	padding: 5% 5% 5% 5%;
+	margin: 1% 1% 1% 1%;
+}
+.divenam ul{
+	padding: 5% 5% 5% 5%;
+	margin: 1% 1% 1% 1%;
+}
+li{
+	padding-left: 1%;
+	margin: 1%;
+	font-family: arial;font-size: 1vw;
+	opacity: 100%;
+}
+.a{
+	margin: 3% 2%; padding: 5%;
+	text-align: center;
+	font-size: 1.5vw;
+	background-color: rgba(0, 0, 0, 0.479);
+}
+.a a{
+	text-decoration: none; color: #ffffff;
+	font-weight: bold;
+}
+
+.listA a{
+	color: white;
+	text-decoration: none;
+	font-size: 1.5vw;
+}
+.listA a:hover{
+	color: rgb(255, 115, 0);
+	text-decoration: none;
+	font-size: 1.5vw;
+}
